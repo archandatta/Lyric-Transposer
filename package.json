@@ -1,0 +1,12 @@
+{
+  "name": "source-code",
+  "version": "1.0.0",
+  "description": "2406 Assignment 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Archan Datta",
+  "license": "ISC"
+}

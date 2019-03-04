@@ -1,5 +1,3 @@
-2406 Assignment 2
-
 Archan Datta
 101063873
 archan.datta@carleton.ca

@@ -1,6 +1,4 @@
 Archan Datta
-101063873
-archan.datta@carleton.ca
 
 Tested with: node.js v10.15.0 on Windows 10
 
